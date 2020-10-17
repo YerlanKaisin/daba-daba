@@ -1,5 +1,5 @@
 # Safe Remove Script (SRM)
-That script specially created for developers, in order not to delete files.
+That script specially created for developers, in order not to accidentaly delete important files.
 
 # Prerequisites
 
