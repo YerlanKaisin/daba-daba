@@ -13,6 +13,8 @@ git clone https://github.com/YerlanKaisin/daba-daba/blob/feat/safe-remove/
 
 mv feat/safe-remove/srm.sh ~/bin/srm.sh
 
+chmod +x srm.sh
+
 # How to use
 
 ./srm.sh [FILENAME]
